@@ -62,7 +62,9 @@ teddy=('good')
 
 
 programireba='GOA'
+
 programireba2='BEST'
+
 print(programireba+programireba2)
 
 
@@ -70,4 +72,5 @@ print(programireba+programireba2)
 
 
 num3=5464764675357
+
 print(num3*444764565)
