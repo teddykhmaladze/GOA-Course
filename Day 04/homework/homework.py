@@ -2,7 +2,7 @@
 
 name="teddy"
 
-name="tedi"
+name="teodor"
 
 age=7
 

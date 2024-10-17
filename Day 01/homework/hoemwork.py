@@ -3,7 +3,7 @@ name = "teddy"
 
 surname = "khmaladze"
 
-print(name + " " +  surname)
+print(name + "" +  surname)
 
 
 
