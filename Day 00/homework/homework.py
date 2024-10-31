@@ -3,7 +3,6 @@ speed (10)
 
 #we want to paint a hause
 
-
 width(7)
 
 begin_fill()
