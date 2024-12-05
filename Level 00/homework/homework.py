@@ -1,5 +1,5 @@
 from turtle import *
-speed (10)
+speed (1)
 
 #we want to paint a hause
 
