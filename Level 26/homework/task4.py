@@ -1,0 +1,15 @@
+programs = ["python" , "html" , "css" , "javascript" , "typescript" , "ecmascript" , "react" , "next.js" , "nmp" , "npx" , "node.js" , "terminal" , "cmd"]
+programs[0]  = "1"
+programs[1]  = "2"
+programs[2]  = "3"
+programs[3]  = "4"
+programs[4]  = "5"
+programs[5]  = "6"
+programs[6]  = "7"
+programs[7]  = "8"
+programs[8]  = "9"
+programs[9]  = "10"
+programs[10] = "11"
+programs[11] = "12"
+programs[12] = "13"
+print(programs)

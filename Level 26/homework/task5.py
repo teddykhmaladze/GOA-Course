@@ -1,0 +1,1 @@
+# sring-ისა და list-ის განსხვავებაა რომ string-ი არის უცვლელი (imutable), ხოლო list-ი არის შემცვლადი (mutable).
