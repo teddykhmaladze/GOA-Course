@@ -14,7 +14,7 @@ time=1209
 
 color="white"
 
-color="blou"
+color="blue"
 
 year=2023
 
